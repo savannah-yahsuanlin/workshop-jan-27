@@ -1,0 +1,24 @@
+{
+  "name": "workshop-jan-27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "nodemon bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savannah-yahsuanlin/workshop-jan-27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savannah-yahsuanlin/workshop-jan-27/issues"
+  },
+  "homepage": "https://github.com/savannah-yahsuanlin/workshop-jan-27#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
